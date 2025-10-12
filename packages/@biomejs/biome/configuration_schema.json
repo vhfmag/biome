@@ -14948,7 +14948,7 @@
 			"properties": {
 				"order": {
 					"description": "The order of the Vue define macros.",
-					"default": ["defineModel", "defineProps", "defineEmits"],
+					"default": [],
 					"type": "array",
 					"items": { "type": "string" }
 				}
